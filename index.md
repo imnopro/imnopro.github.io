@@ -4,17 +4,25 @@ layout: default
 
 # Surya Rao's Cybersecurity Portfolio
 
-Welcome to my portfolio! Explore my projects, where I tackle various challenges in cybersecurity, ranging from penetration testing to secure coding practices.
+Welcome to my portfolio! Explore my projects, where I tackle various challenges in cybersecurity, ranging from penetration testing to SIEM Servers.
 
 ---
 
-## Project 1: **[Title of Project 1](./project-1.html)**
+## Project 1: **[Hack The Box Write-ups](./project-1.html)**
 
 _Description:_  
-This project focuses on **[key objectives of the project]**. Technologies used include `Tool/Language 1`, `Tool/Language 2`, and `Tool/Language 3`.  
+This project focuses on documenting detailed walkthroughs of various Hack The Box machines, showcasing problem-solving skills in penetration testing and cybersecurity. Technologies used include `Nmap`, `Metasploit`, and `Burp Suite`.  
 * [Project Repository](./project-1-repo.html)  
 * [Project Documentation](./project-1-docs.html)
 
+---
+
+- Documented detailed walkthroughs of Hack The Box machines.
+- Utilized Nmap, Metasploit, and Burp Suite to identify and exploit vulnerabilities.
+- Provided comprehensive write-ups covering exploitation steps, post-exploitation techniques, and machine analysis.
+- Enhanced the repository with structured content, clear explanations, and diagrams for improved readability.
+- Collaborated with the cybersecurity community to share findings and improve collective knowledge.
+****
 ---
 
 ## Project 2: **[Title of Project 2](./project-2.html)**
@@ -40,12 +48,3 @@ In this project, I explored **[key objectives of the project]** using `Tool/Lang
 We recommend including a README or a file with information about your project. Each project repository contains detailed instructions, setup guides, and insights into the work. If you have any questions, feel free to reach out through the [Contact](./contact.html) page.
 
 ---
-
-### Code Snippets
-
-```js
-// Javascript example code snippet.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
