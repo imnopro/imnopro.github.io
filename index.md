@@ -2,122 +2,50 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`.
+# Surya Rao's Cybersecurity Portfolio
 
-[Link to another page](./another-page.html).
+Welcome to my portfolio! Explore my projects, where I tackle various challenges in cybersecurity, ranging from penetration testing to secure coding practices.
 
-There should be whitespace between paragraphs.
+---
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Project 1: **[Title of Project 1](./project-1.html)**
 
-# Header 1
+_Description:_  
+This project focuses on **[key objectives of the project]**. Technologies used include `Tool/Language 1`, `Tool/Language 2`, and `Tool/Language 3`.  
+* [Project Repository](./project-1-repo.html)  
+* [Project Documentation](./project-1-docs.html)
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+---
 
-## Header 2
+## Project 2: **[Title of Project 2](./project-2.html)**
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+_Description:_  
+This project involves **[key objectives of the project]**. I utilized `Tool/Language 1`, `Tool/Language 2`, and `Tool/Language 3`.  
+* [Project Repository](./project-2-repo.html)  
+* [Project Documentation](./project-2-docs.html)
 
-### Header 3
+---
+
+## Project 3: **[Title of Project 3](./project-3.html)**
+
+_Description:_  
+In this project, I explored **[key objectives of the project]** using `Tool/Language 1`, `Tool/Language 2`, and `Tool/Language 3`.  
+* [Project Repository](./project-3-repo.html)  
+* [Project Documentation](./project-3-docs.html)
+
+---
+
+## Additional Resources
+
+We recommend including a README or a file with information about your project. Each project repository contains detailed instructions, setup guides, and insights into the work. If you have any questions, feel free to reach out through the [Contact](./contact.html) page.
+
+---
+
+### Code Snippets
 
 ```js
-// Javascript code with syntax highlighting.
+// Javascript example code snippet.
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
 }
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
