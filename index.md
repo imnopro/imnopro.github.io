@@ -8,7 +8,7 @@ Welcome to my portfolio! Explore my projects, where I tackle various challenges 
 
 ---
 
-## Project 1: **[Hack The Box Write-ups](./project-1.html)**
+## Project 1: **[Hack The Box Write-ups]**
 
 _Description:_  
 This project focuses on documenting detailed walkthroughs of various Hack The Box machines, showcasing problem-solving skills in penetration testing and cybersecurity. Technologies used include `Nmap`, `Metasploit`, and `Burp Suite`.  
@@ -22,7 +22,7 @@ This Project is currently a work in progress, due to Hack-The-Box's content rele
 - Collaborated with the cybersecurity community to share findings and improve collective knowledge.
 ---
 
-## Project 2: **[Proteus](./proteus.html)**
+## Project 2: **[Proteus](https://github.com/imnopro/Proteus)**
 
 _Description:_  
 This project involved designing a fake laptop charger case for a USB Flipper to create a "bad charger" as a piece of social engineering hardware. I utilized `Duckyscript`, `PowerShell`, and `Batch Files`.  
@@ -34,17 +34,8 @@ This project involved designing a fake laptop charger case for a USB Flipper to 
 - Provided detailed explanations and usage instructions for the fake charger and its components.
 - Shared insights and findings with the cybersecurity community to enhance awareness of social engineering techniques and hardware-based attacks.
 
-## Project 3: **[Title of Project 3](./project-3.html)**
-
-_Description:_  
-In this project, I explored **[key objectives of the project]** using `Tool/Language 1`, `Tool/Language 2`, and `Tool/Language 3`.  
-* [Project Repository](./project-3-repo.html)  
-* [Project Documentation](./project-3-docs.html)
-
----
 
 ## Additional Resources
 
-We recommend including a README or a file with information about your project. Each project repository contains detailed instructions, setup guides, and insights into the work. If you have any questions, feel free to reach out through the [Contact](./contact.html) page.
-
+My Hack the box username is: Agent499
 ---
