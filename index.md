@@ -15,8 +15,6 @@ This project focuses on documenting detailed walkthroughs of various Hack The Bo
 This Project is currently a work in progress, due to Hack-The-Box's content release policies. 
 * [Project Repository](./project-1-repo.html)  
 
----
-
 - Documented detailed walkthroughs of Hack The Box machines.
 - Utilized Nmap, Metasploit, and Burp Suite to identify and exploit vulnerabilities.
 - Provided comprehensive write-ups covering exploitation steps, post-exploitation techniques, and machine analysis.
@@ -24,14 +22,17 @@ This Project is currently a work in progress, due to Hack-The-Box's content rele
 - Collaborated with the cybersecurity community to share findings and improve collective knowledge.
 ---
 
-## Project 2: **[Title of Project 2](./project-2.html)**
+## Project 2: **[Proteus](./proteus.html)**
 
 _Description:_  
-This project involves **[key objectives of the project]**. I utilized `Tool/Language 1`, `Tool/Language 2`, and `Tool/Language 3`.  
-* [Project Repository](./project-2-repo.html)  
-* [Project Documentation](./project-2-docs.html)
+This project involved designing a fake laptop charger case for a USB Flipper to create a "bad charger" as a piece of social engineering hardware. I utilized `Duckyscript`, `PowerShell`, and `Batch Files`.  
+* [Project Repository](https://github.com/imnopro/Proteus)
 
----
+- Designed a fake laptop charger case for a USB Flipper to simulate a "bad charger" for social engineering.
+- Developed and implemented Duckyscript, PowerShell, and Batch Files to create and control the malicious functionality.
+- Documented the design and development process, including hardware setup and script functionality.
+- Provided detailed explanations and usage instructions for the fake charger and its components.
+- Shared insights and findings with the cybersecurity community to enhance awareness of social engineering techniques and hardware-based attacks.
 
 ## Project 3: **[Title of Project 3](./project-3.html)**
 
