@@ -4,7 +4,7 @@ layout: default
 
 # Surya Rao's Cybersecurity Portfolio
 
-Welcome to my portfolio! Explore my projects, where I tackle various challenges in cybersecurity, ranging from penetration testing to SIEM Servers.
+Hi, I’m Surya Rao! I’m a penetration tester who’s always excited to learn and dive into new cybersecurity challenges. I love exploring new tools and techniques, and I’m passionate about sharing what I discover with the community. I’m all about growing my skills, tackling security issues, and staying curious about the ever-evolving world of cybersecurity.
 
 ---
 
