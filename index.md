@@ -13,7 +13,6 @@ Welcome to my portfolio! Explore my projects, where I tackle various challenges 
 _Description:_  
 This project focuses on documenting detailed walkthroughs of various Hack The Box machines, showcasing problem-solving skills in penetration testing and cybersecurity. Technologies used include `Nmap`, `Metasploit`, and `Burp Suite`.  
 This Project is currently a work in progress, due to Hack-The-Box's content release policies. 
-* [Project Repository](./project-1-repo.html)  
 
 - Documented detailed walkthroughs of Hack The Box machines.
 - Utilized Nmap, Metasploit, and Burp Suite to identify and exploit vulnerabilities.
