@@ -34,6 +34,18 @@ This project involved designing a fake laptop charger case for a USB Flipper to 
 - Shared insights and findings with the cybersecurity community to enhance awareness of social engineering techniques and hardware-based attacks.
 
 
+## Project 2: **[Odysseus](https://github.com/imnopro/Odysseus)**
+_Description:_  
+This project showcases the integration of `msfvenom` and `Advanced Installer` to create a software package that includes an embedded reverse shell payload. The objective was to demonstrate how payloads can be embedded within an installer and executed to establish a connection to a remote listener.
+
+* [Project Repository](https://github.com/imnopro/Odysseus)
+
+- **Generated Malicious Payload:** Utilized `msfvenom` to create a malicious Windows executable with a reverse shell payload. 
+- **Created Installer:** Used `Advanced Installer` to package the malicious `.exe` into a professional-looking MSI installer to decrease visibility and obfuscate. 
+- **Documentation:** Provided a comprehensive guide detailing the process of generating the payload, packaging it with an installer, and running the demonstration. 
+- **Educational Value:** Aimed to educate others on integrating payloads with software installers and understanding potential security implications. Shared insights to help enhance cybersecurity awareness and practices.
+
+
 ## Additional Resources
 
 My Hack the box username is: Agent499
